@@ -1,5 +1,5 @@
 #surefire
-#Fri Oct 02 19:15:06 CDT 2020
+#Sat Oct 03 17:51:54 CDT 2020
 classPathUrl.4=C\:\\Users\\amine\\.m2\\repository\\org\\opentest4j\\opentest4j\\1.0.0-ALPHA\\opentest4j-1.0.0-ALPHA.jar
 testSuiteDefinitionTestSourceDirectory=C\:\\Users\\amine\\eclipse-workspace\\maven\\src\\test\\java
 includes1=**/*Test.java

@@ -111,7 +111,7 @@ formatter.match({
   "location": "IsNumberCucumber.instantiateIsNumberClass()"
 });
 formatter.result({
-  "duration": 789359800,
+  "duration": 216298600,
   "status": "passed"
 });
 formatter.match({
@@ -124,14 +124,14 @@ formatter.match({
   "location": "IsNumberCucumber.i_even_pass_number_to_isEven_function(int)"
 });
 formatter.result({
-  "duration": 5406600,
+  "duration": 3652900,
   "status": "passed"
 });
 formatter.match({
   "location": "IsNumberCucumber.the_result_is_true()"
 });
 formatter.result({
-  "duration": 82100800,
+  "duration": 4154300,
   "status": "passed"
 });
 formatter.scenario({
@@ -161,7 +161,7 @@ formatter.match({
   "location": "IsNumberCucumber.instantiateIsNumberClass2()"
 });
 formatter.result({
-  "duration": 50500,
+  "duration": 57700,
   "status": "passed"
 });
 formatter.match({
@@ -174,14 +174,14 @@ formatter.match({
   "location": "IsNumberCucumber.i_odd_pass_number_to_isEven_function(int)"
 });
 formatter.result({
-  "duration": 110500,
+  "duration": 120800,
   "status": "passed"
 });
 formatter.match({
   "location": "IsNumberCucumber.the_result_is_false()"
 });
 formatter.result({
-  "duration": 33600,
+  "duration": 40600,
   "status": "passed"
 });
 });
