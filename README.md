@@ -18,7 +18,7 @@ Maven project to help learn Jenkins.
 * Add Maven
  * I unchecked Install Automatically and instead directly specified the path to the file, apache-maven-3.6.3, which I extracted from the Maven Binary rar.gz file.
 ### `Make Maven Project` 
-* You can learn how to do that [here](https://www.youtube.com/watch?v=BfJvxGs-HxQ&t=317s) and [here](https://www.youtube.com/watch?v=pwP9zimYec4&t=522s)
+* You can learn how to do that [here] (https://www.youtube.com/watch?v=BfJvxGs-HxQ&t=317s) and [here] (https://www.youtube.com/watch?v=pwP9zimYec4&t=522s)
 * Go to your home page in Jenkins. You can do that by clicking Jenkins at around the top left corner of screen
 * Click New Item
 * Enter your item name and click Maven Project. Please then click ok.
