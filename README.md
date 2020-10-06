@@ -3,7 +3,7 @@ Maven project to help learn Jenkins.
 
 ## Running tests on Jenkins
 * [Install Jenkins](https://www.youtube.com/watch?v=1y8RsUbxtAw&t=382s).
-  * To install Jenkins. I downloaded it from this [link] (https://www.jenkins.io/download/)
+  * To install Jenkins. I downloaded it from this [link](https://www.jenkins.io/download/)
   * The Jenkins that I installed required a different JDK than the onw I had. I downloaded OpenJDK from [RedHat](https://developers.redhat.com/products/openjdk/download)
 # Make Maven Project in Jenkins
 ### `Set up Maven in Jenkins`
