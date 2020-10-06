@@ -32,5 +32,5 @@ Maven project to help learn Jenkins.
 
 * Click Save
 ##
-# I hope this helps
+I hope this helps
 
